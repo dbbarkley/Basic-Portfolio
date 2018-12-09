@@ -158,14 +158,14 @@ h2 {
 }
 .clear-none {
     clear: none;
-    line-height: 2em;
+    line-height: 1.9em;
     color: #777777;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .clear-both {
     clear: both;
     padding-left: 10px;
-    line-height: 2em;
+    line-height: 1.9em;
     color: #777777;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
